@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    background-image: url(fundo2.png);
+    background-size: 50% 120%;
+}
+
+#cabecalho {
+    height: 140px;
+    background-color:yellow;
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    border-radius: 1%;
+}
+
+
+#menu {
+    height: 600px;
+    width: 300px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    margin-left: 110px;
+    margin-top: 2px;
+    color: yellow;
+    border-radius: 1%;
+}
+
+#main {
+    height: 600px;
+    width: 951px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    margin-top: 2px;
+    margin-left: 5px;
+    margin-block-end: 5px;
+    color: white;
+    border-radius: 1%;
+}
+
+
+#rodape {
+    height: 120px;
+    background-color: rgb(0, 0, 0);
+    clear: both;
+    width: 1258px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 1%;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+
+}
+
+.logo {
+    position: absolute;
+    top: 9%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.primeiros{
+    border: 1px;
+    border-radius: 10px;
+    background-color: rgb(179, 14, 14);
+    color: white;
+    width: 250px;
+    height: 50px;
+    font-size: 40px;
+}
+
+.titulo {
+    color: yellow;
+}
+
+.sub {
+    color: yellow;
+}
+
+.homem {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.texto {
+    color: yellow;
+    position: absolute;
+    top: 800px;
+    left: 12%;
+    transform: translate(-50%, -50%);
+}
+
+.linha {
+    position: absolute;
+    top: 767px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.texto2 {
+    color: yellow;
+    position: absolute;
+    top: 830px;
+    left: 13%;
+    transform: translate(-50%, -50%);
+}
+
+.numero {
+    color: white;
+    position: absolute;
+    top: 800px;
+    left: 21%;
+    transform: translate(-50%, -50%);
+}
+
+.numero2 {
+    color: white;
+    position: absolute;
+    top: 830px;
+    left: 24%;
+    transform: translate(-50%, -50%);
+}
+
+.insta {
+    position: absolute;
+    top: 109%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+}
+
+#rede {
+    position: absolute;
+    top: 809px;
+    left: 84%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    color: white;
+    border: 1px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
